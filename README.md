@@ -18,7 +18,7 @@ Microscopy such as Scanning Tunneling Microscopy (STM), Atomic Force Microscopy 
 Figure1: Architecture of the proposed Fourier-Based Global Denoising Model (GDM).
 
 ### Description
-This repository includes links, code, scripts, and data to generate the figures in a paper.
+This repository includes links, code, scripts, and data to generate the figures in the paper.
 
 ### Data
 
