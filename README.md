@@ -1,4 +1,4 @@
-[![Paper](https://img.shields.io/badge/paper-arXiv%3A2503.08735-B31B1B.svg)](https://arxiv.org/abs/2503.08735)
+
 
 
 # A Fourier-Based Global Denoising Model for Smart Artifacts Removing of Microscopy Images 
@@ -7,7 +7,8 @@
 
 
  	
-[https://doi.org/10.48550/arXiv.2503.08735](https://arxiv.org/abs/2511.09734)
+Huanhuan Zhao et al 2026 Mach. Learn.: Sci. Technol. 7 045034
+https://iopscience.iop.org/article/10.1088/2632-2153/ae87f3
 
 
 ### Abstract
